@@ -1,0 +1,9 @@
+<book title="Python for Dummies" version="1.0.0" >
+    <author>Stef Maruch</author>
+    <author>Aahz Maruch</author>
+    <author>André Maruch</author>
+    <price currency="USD">29.99</price>
+    <description>
+        Python for Dummies is a book for beginners to learn Python.
+    </description>
+</book>
