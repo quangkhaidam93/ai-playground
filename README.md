@@ -46,5 +46,12 @@ pip install pipreqs
 Generate `requirements.txt` in specified directory
 
 ```bash
+// Current directory
+pipreqs
+
+// (Recommended) Ignore .venv
+pipreqs --ignore .venv
+
+// Custom directory
 pipreqs {path_to_directory}
 ```
