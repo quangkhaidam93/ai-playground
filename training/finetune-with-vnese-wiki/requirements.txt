@@ -1,0 +1,10 @@
+datasets==2.21.0
+hf_transfer==0.1.8
+huggingface_hub==0.24.6
+numpy==2.1.0
+pandas==2.2.2
+torch==2.4.0
+tqdm==4.66.5
+transformers==4.44.2
+trl==0.10.1
+unsloth==2024.8

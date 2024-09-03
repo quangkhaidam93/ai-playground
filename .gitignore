@@ -1,3 +1,4 @@
 # Ignore venv in every submodule
 */**/.venv
 */**/venv
+*/**/__pycache__
